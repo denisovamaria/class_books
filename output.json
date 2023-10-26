@@ -1,0 +1,66 @@
+[ {
+  "nameOfAuthor" : "Adams",
+  "nameOfBook" : "about_everything_with_Java",
+  "year" : 2342,
+  "price" : 27462
+}, {
+  "nameOfAuthor" : "Austen",
+  "nameOfBook" : "pride_and_prejudice",
+  "year" : 1813,
+  "price" : 15
+}, {
+  "nameOfAuthor" : "Bakman",
+  "nameOfBook" : "strange_people",
+  "year" : 2018,
+  "price" : 376
+}, {
+  "nameOfAuthor" : "Bakman",
+  "nameOfBook" : "uve_life",
+  "year" : 2016,
+  "price" : 4324
+}, {
+  "nameOfAuthor" : "Dostoevsky",
+  "nameOfBook" : "crime_and_punishment",
+  "year" : 1866,
+  "price" : 19
+}, {
+  "nameOfAuthor" : "Hemingway",
+  "nameOfBook" : "the_old_man_and_the_sea",
+  "year" : 1952,
+  "price" : 18
+}, {
+  "nameOfAuthor" : "King",
+  "nameOfBook" : "it",
+  "year" : 1986,
+  "price" : 20
+}, {
+  "nameOfAuthor" : "Murell",
+  "nameOfBook" : "Java_style",
+  "year" : 2479,
+  "price" : 25
+}, {
+  "nameOfAuthor" : "Orwell",
+  "nameOfBook" : "1984",
+  "year" : 1949,
+  "price" : 22
+}, {
+  "nameOfAuthor" : "Rowling",
+  "nameOfBook" : "harry_potter",
+  "year" : 1997,
+  "price" : 25
+}, {
+  "nameOfAuthor" : "Shakespeare",
+  "nameOfBook" : "hamlet",
+  "year" : 1609,
+  "price" : 12
+}, {
+  "nameOfAuthor" : "Tolstoy",
+  "nameOfBook" : "idiot",
+  "year" : 1892,
+  "price" : 200
+}, {
+  "nameOfAuthor" : "Tolstoy",
+  "nameOfBook" : "war_and_piece",
+  "year" : 1867,
+  "price" : 100
+} ]
